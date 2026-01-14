@@ -1,13 +1,13 @@
 # Dhruv Savalaram Manjrekar
 
-**Prospective Computer Science / Systems Engineering Student**  
+**Applicant for Bachelor’s in Computer Science / Systems Engineering**  
 India
 
 ---
 
 ## Education
 **Bachelor of Electronics and Telecommunications Engineering (ongoing)**  
-First Year Student
+First Year (ongoing)
 
 ---
 
