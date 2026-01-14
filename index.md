@@ -56,5 +56,6 @@ First Year (ongoing)
 
 ## Contact
 Email: dhruv.manjrekar27@gmail.com
+
 Detailed descriptions of these projects are available in a separate technical portfolio:  
 [Technical Portfolio (PDF)](technical_portfolio.pdf)
