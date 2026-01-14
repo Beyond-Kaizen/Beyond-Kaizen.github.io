@@ -22,17 +22,29 @@ First Year (ongoing)
 
 ## Projects
 
-### Systems Programming in C
-- Manual memory management and dynamic allocation
-- Matrix computation with attention to memory layout
+### Pointer Based Memory Addressing Simulation (C)
+- Demonstrated pointer arithmetic, address-of operators, and direct memory modification
+- Explored stack memory behavior through controlled pointer dereferencing
 
-### Python–C FFI Optimization
-- Integrated C-based computational kernels with Python
-- Observed significant performance improvement over pure Python
+### High Performance Matrix Operation Kernel (C)
+- Implemented matrix multiplication and transposition using dynamic memory allocation
+- Emphasized pointer based traversal and memory hygiene to avoid leaks
 
-### Neural Inference from Scratch
-- Implemented a basic neural inference model without external frameworks
-- Focused on understanding core computation and data flow
+### Bare Metal Neural Inference Engine (C)
+- Built a single-layer neural inference model from scratch on top of matrix kernels
+- Implemented forward propagation and sigmoid activation manually
+
+### Hybrid FFI Accelerator (Python + C)
+- Integrated a compiled C shared library with Python using Foreign Function Interface
+- Offloaded CPU intensive computation to native code for performance gains
+
+### Distributed Tensor Processing Node (Python)
+- Developed a TCP based server to perform remote inference on serialized vector inputs
+- Implemented client server architecture with JSON based communication
+
+### Multi Threaded Network Port Scanner (Python)
+- Built a concurrent port scanning utility using threads and low level sockets
+- Focused on TCP connection handling, timeouts, and resource safety
 
 ---
 
